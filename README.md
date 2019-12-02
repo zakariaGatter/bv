@@ -26,8 +26,8 @@ Move/Rename files and directories with your editor
 ### Installation
 
 * Requires:
-    * [Bash]()
-    * [Coreutils]()
+    * [Bash](https://www.gnu.org/software/bash/bash.html)
+    * [Coreutils](https://www.gnu.org/software/coreutils/)
 
     `Probably ther already installed`
 
@@ -60,3 +60,4 @@ VARIABLES
  BV_EDITOR   Editor to use (default: $EDITOR)
  BV_MV       MV command to use (default: mv)
 ```
+[BV]:https://github.com/zakariagatter/bv
