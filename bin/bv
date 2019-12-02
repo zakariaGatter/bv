@@ -26,7 +26,7 @@ _ms_(){ echo -e "${_name_^}: $@" ;}
 
 #------------#
 # LIST FILES #
-#------------#
+#------------#{{{
 _list_(){
 for i in "${_list_[@]:$F}" ; do
     local full=$(realpath -- "$i")
@@ -47,6 +47,7 @@ for i in "${_list_[@]:$F}" ; do
     [ "$_FULL_" ]   && printf "%s\n" "$full" >> "$_TMP_"
 done
 }
+#}}}
 
 #--------------------#
 # EDIT AND CHECK TMP #
