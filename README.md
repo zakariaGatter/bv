@@ -8,7 +8,7 @@ Move/Rename files and directories with your editor
 
 ### About
 
-[BV] is a Interactive Move/Rename Tool inspire by [Vifm]() Rename method
+[BV] is a Interactive Move/Rename Tool inspire by [Vifm]( https://vifm.info/) Rename method
 
 [BV] Allows you to ...
 
@@ -29,7 +29,7 @@ Move/Rename files and directories with your editor
     * [Bash](https://www.gnu.org/software/bash/bash.html)
     * [Coreutils](https://www.gnu.org/software/coreutils/)
 
-    `Probably ther already installed`
+    `Probably they are already installed`
 
 * Setup [BV]:
 
