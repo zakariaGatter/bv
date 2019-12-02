@@ -1,4 +1,4 @@
-# bv
+# BV
 Move/Rename files and directories with your editor
 
 ## table of Contents
@@ -35,7 +35,7 @@ Move/Rename files and directories with your editor
 * Setup [BV]:
 
     ```bash
-    git clone https://gitlab.com/zakariaGatter/bv.git ~/bv
+    git clone https://github.com/zakariaGatter/bv.git ~/bv
 	mkdir -p ~/.local/bin
 	cp ~/brash/bin/bv ~/.local/bin
 	chmod +x ~/.local/bin/bv
